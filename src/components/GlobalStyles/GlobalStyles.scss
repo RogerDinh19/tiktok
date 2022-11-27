@@ -2,10 +2,13 @@
 
 :root {
     --primary: #fe2c55;
+    --layout-width:1150px
 }
 
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 html {
